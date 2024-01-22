@@ -25,3 +25,12 @@ console.log(typeof boolIsLoggedIn);
 // ""-> false
 // undefined/null -> false
 
+
+//################OPERATIONS############
+//maths wale normal same
+
+//Strings:
+
+let str1="Hello";
+let str2=" Vishesh";
+
